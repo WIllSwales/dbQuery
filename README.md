@@ -1,2 +1,2 @@
 # dbQuery
-A MediaWiki extension for user-friendly building of SQL queries 
+A MediaWiki extension for user-friendly building of SQL queries. 
